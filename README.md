@@ -1,2 +1,2 @@
 # kazan
-BeerJS: Kasan, Russia
+BeerJS: Kazan, Russia
